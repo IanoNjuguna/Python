@@ -1,2 +1,2 @@
-# Programming-In-Solidity
-Learning the Solidity Programming Labguage
+# Programming-In-Python
+Learning the Python Programming Labguage
