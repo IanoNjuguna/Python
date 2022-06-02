@@ -1,5 +1,7 @@
 # Programming-In-Python
 
-## Learning the Python Programming Language
+## Description of this Repository
 
-### Python Notes
+This repository contains all the notes I have taken over the years while learning how to program in Python from various sources.
+
+## An Introduction to the Python Programming Language
