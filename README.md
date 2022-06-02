@@ -1,2 +1,5 @@
 # Programming-In-Python
-Learning the Python Programming Labguage
+
+## Learning the Python Programming Language
+
+### Python Notes
