@@ -17,7 +17,6 @@ In some programming languages, indentation in code is for code readability purpo
 * if 6 > 4:
     ```print("Six is greater than four.")```
 
-
 Its core philosophy as summarized in the document ```The Zen of Python```^[10], includes aphorisms such as:
 
 * Beautiful is better than ugly.

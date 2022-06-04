@@ -31,10 +31,11 @@ To do this, you can Google, read docs or consult a fellow dev.
 
 A variable is an area in memory that is used to store data.
 In Python, variables are assigned by declaring the variable and assigning a value to it by using the ```=``` operator.
+In this case, the ```=``` operator does not express equality, it ```assigns values to variable names```.
 
 #### Variable Names
 
-A variable can have a short name (```z``` or ```a```) or a more descriptive name (```age```, ```songname```, ```total-area```)
+A variable can have a short name (```z``` or ```a```) or a more descriptive name (```age```, ```songname```, ```total_area```)
 The following are the rules that guide allocating name to Python Variables:
 
     * A variable MUST start with a letter or the underscore character
@@ -74,9 +75,34 @@ For any number ```s```, the value of ```y % s``` is always less that ```s``` its
 For instance, ```4``` divided by ```2``` equals ```2``` but it remains ```0```. Here, ```4 / 2 = 2``` and ```4 % 2 = 0```.
 In another instance, ```9``` divided by ```4``` equals ```2``` but it remains ```1```. Here, ```9 / 4 = 2``` and ```9 % 4 = 1```.
 
-
 ### CAVEAT
 
 The mathematical operations in Python are subject to the rules of Mathematical Operations.
+
+### Good Python Formatting in Mathematical Operations
+
+    1. print(4/2 - 7*7)
+            * Recommended
+
+    2.  print ((1 + 2 + 4) / 13)
+            * The space between print and the first ( is unnecessary
+            * The spaces around the / are unnecessary
+    
+        print((1 + 2 + 4)/13)
+            * Recommended
+
+    3.  print((17-6)%(5+2))
+            * There should be spaces between the numbers and the operators in the brackets
+        
+        print((17 -6)%(5 + 2))
+            * Recommended
+
+    4.  print(((3+32))+ -15//2)
+            * There are extra spaces, extra parentheses and an extra +
+
+        print((3 + 32)-15//2)
+            *   Recommended
+
+### References
 
 [1] Source: [Euclidean Division](https://en.wikipedia.org/wiki/Euclidean_division)
