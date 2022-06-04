@@ -3,6 +3,7 @@
 .history/test_20220602121633.py
 .history/test_20220602121638.py
 Test/Test0.png
+Programming-In-Python\.vscode
 
 .vscode/*
 !.vscode/settings.json
@@ -10,6 +11,7 @@ Test/Test0.png
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
+!Programming-In-Python\.vscode
 
 # Local History for Visual Studio Code
 .history/
