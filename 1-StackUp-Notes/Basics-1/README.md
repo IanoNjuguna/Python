@@ -24,3 +24,10 @@ In Python, comments are preceded by the ```#``` symbol.
 
 Whenever an error message appears, use it to find the cause of the error and how it can be resolved.
 To do this, you can Google, read docs or consult a fellow dev.
+
+## 4. [Variables](Programming-In-Python\1-StackUp-Notes\Basics-1\Variables.py)
+
+### What is a variable?
+
+A variable is an area in memory that is used to store data.
+In Python, variables are assigned by declaring the variable and assigning a value to it by using the ```=``` operator.
