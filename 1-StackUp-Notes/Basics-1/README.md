@@ -11,7 +11,7 @@ Traditionally when learning a new programming language, the first thing is to pr
     In my view, it is because:
         * the print function is a simple function from the Python standard library.
         * the print function is used to print any type of data or a result from any operation on the screen.
-        * the print function is used for testing purposes such as in [test0](Programming-In-Python\0-Testing-the-IDE\test0.py).
+        * the print function is used for testing purposes.
 
  As with most things in programming, there are a myriad of possible answers to this query. Here are [some samples from the social media site, Quora](https://www.quora.com/Why-do-we-start-with-the-Hello-World?share=1)
 
