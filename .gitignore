@@ -3,3 +3,16 @@
 .history/test_20220602121633.py
 .history/test_20220602121638.py
 Test/Test0.png
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix

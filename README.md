@@ -25,6 +25,8 @@ Its core philosophy as summarized in the document ```The Zen of Python```^[10], 
 * Complex is better than complicated.
 * Readability counts, etc.
 
+## REFERENCES
+
 [1] Source: [Van Rossum's Page]((https://gvanrossum.github.io/))
 [2] Source:[Stack Overflow](https://insights.stackoverflow.com/survey/2020/#technology-most-loved-dreaded-and-wanted-languages-loved)
 [3] Source: [Jet Brains](https://www.jetbrains.com/lp/devecosystem-2020/)
