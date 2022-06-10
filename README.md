@@ -12,10 +12,7 @@ The programming language, Python was created in the late 1980s by Guido van Ross
 
 Python is a high-level^[6], interpreted^[7], general-purpose^[8] programming language and its design philosophy emphasizes code readability with the use of significant indentation^[9].
 
-In some programming languages, indentation in code is for code readability purposes but in Python, indentation is used to indicate a block of code. For instance:
-
-* if 6 > 4:
-    ```print("Six is greater than four.")```
+In some programming languages, indentation in code is for code readability purposes but in Python, indentation is used to indicate a block of code. 
 
 Its core philosophy as summarized in the document ```The Zen of Python```^[10], includes aphorisms such as:
 
@@ -31,10 +28,10 @@ Its core philosophy as summarized in the document ```The Zen of Python```^[10], 
     * Errors should never pass silently.
     * Unless explicitly silenced.
     * In the face of ambiguity, refuse the temptation to guess.
-    * There should be one– and preferably only one –obvious way to do it.[a]
+    * There should be one– and preferably only one –obvious way to do it.
     * Although that way may not be obvious at first unless you're Dutch.
     * Now is better than never.
-    * Although never is often better than right now.[b]
+    * Although never is often better than right now.
     * If the implementation is hard to explain, it's a bad idea.
     * If the implementation is easy to explain, it may be a good idea.
     * Namespaces are one honking great idea – let's do more of those!
