@@ -18,7 +18,7 @@ Traditionally when learning a new programming language, the first thing is to pr
 ## 2. Commenting
 
 Commenting code is useful for documentation purposes and code readability.
-In Python, comments are preceded by the ```#``` symbol for single-line comments and in between the ````""" """``` symbol(s) for multi-line comments.
+In Python, comments are preceded by the ``` # ``` symbol for single-line comments and in between the ```` """ """ ``` symbol(s) for multi-line comments.
 
 ## 3. Troubleshooting
 
