@@ -128,7 +128,7 @@ Used when comparing whether one value is greater than OR equal to the other.
 
 Used when comparing whether one value is lesser than the other.
 
-#### <= {less than OR equal to operator}
+### <= {less than OR equal to operator}
 
 Used when comparing whether one value is lesser than OR equal to the other.
 
