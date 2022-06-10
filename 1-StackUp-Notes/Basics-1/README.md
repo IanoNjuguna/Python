@@ -103,6 +103,35 @@ The mathematical operations in Python are subject to the rules of Mathematical O
         print((3 + 32)-15//2)
             *   Recommended
 
-### References
+## [Comparison Operators](Programming-In-Python\1-StackUp-Notes\Basics-1\Comparison-Operators.py)
+
+Comparison operators are used when comparing two values.
+They include:
+
+### == {equal to operator}
+
+Used when comparing whether two values are the same.
+
+### != {not equal to operator}
+
+Used when comparing whether one value is not the same as the other.
+
+### > {more than operator}
+
+Used when comparing one value is greater than the other.
+
+### >= {more than OR equal to operator}
+
+Used when comparing whether one value is greater than OR equal to the other.
+
+### < {less than operator}
+
+Used when comparing whether one value is lesser than the other.
+
+#### <= {less than OR equal to operator}
+
+Used when comparing whether one value is lesser than OR equal to the other.
+
+## References
 
 [1] Source: [Euclidean Division](https://en.wikipedia.org/wiki/Euclidean_division)
