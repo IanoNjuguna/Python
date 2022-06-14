@@ -145,6 +145,22 @@ Used when comparing whether one value is lesser than the other.
 
 Used when comparing whether one value is lesser than OR equal to the other.
 
+## [Logical Operators](Programming-In-Python\1-StackUp-Notes\Basics-1\Logical-Operators.py)
+
+Logical operators are used to evaluate two statements. They include:
+
+### and operator
+
+Returns true if only BOTH statements are true
+
+### or operator
+
+Returns true if ONE of the statements is true.
+
+### not operator
+
+Returns the opposite of a statement.
+
 ## References
 
 [1] Source: [Euclidean Division](https://en.wikipedia.org/wiki/Euclidean_division)
