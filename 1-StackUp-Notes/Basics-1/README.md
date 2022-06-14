@@ -59,7 +59,7 @@ You can NOT use reserved words or built-in identifiers as variable names. Reserv
     * class     * from      * or
     * continue  * global    * pass 
 
-## [Mathematical/Arithmetic Operators](Programming-In-Python\1-StackUp-Notes\Basics-1\Mathematical-Operators.py)
+## 5. [Mathematical/Arithmetic Operators](Programming-In-Python\1-StackUp-Notes\Basics-1\Mathematical-Operators.py)
 
 ### addition
 
@@ -116,7 +116,7 @@ The mathematical operations in Python are subject to the rules of Mathematical O
         print((3 + 32)-15//2)
             *   Recommended
 
-## [Comparison Operators](Programming-In-Python\1-StackUp-Notes\Basics-1\Comparison-Operators.py)
+## 6. [Comparison Operators](Programming-In-Python\1-StackUp-Notes\Basics-1\Comparison-Operators.py)
 
 Comparison operators are used when comparing two values.
 They include:
@@ -145,7 +145,7 @@ Used when comparing whether one value is lesser than the other.
 
 Used when comparing whether one value is lesser than OR equal to the other.
 
-## [Logical Operators](Programming-In-Python\1-StackUp-Notes\Basics-1\Logical-Operators.py)
+## 7. [Logical Operators](Programming-In-Python\1-StackUp-Notes\Basics-1\Logical-Operators.py)
 
 Logical operators are used to evaluate two statements. They include:
 
@@ -160,6 +160,18 @@ Returns true if ONE of the statements is true.
 ### not operator
 
 Returns the opposite of a statement.
+
+## 8. [Data Types](Programming-In-Python\1-StackUp-Notes\Basics-1\Data-Types.py)
+
+Data types are a classification that dictates what a variable or object can hold in computer programming.
+Data types are an important factor in virtually all computer programming languages.
+
+They include:
+
+    * Strings
+    * Integers
+    * Floating Point(S)
+    * Boolean 
 
 ## References
 
