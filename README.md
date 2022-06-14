@@ -18,6 +18,7 @@ In Python, indentation is used to:
     * Enforce readability.
     * Help keep code clean.
 In programming languages like C, C++ & Java, braces are used to indicate a block of code.
+Spaces are preferred over tabs.
 
 Its core philosophy as summarized in the document ```The Zen of Python```^[10], includes aphorisms such as:
 

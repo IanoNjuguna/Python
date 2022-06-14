@@ -42,9 +42,22 @@ The following are the rules that guide allocating name to Python Variables:
 
     * A variable name can NOT start with a number
 
+    * A variable can NOT contain special symbols like $, @, #, %, &, etc (This gives a syntax error)
+
     * A variable name can ONLY contain alpha-numeric characters and underscores ( A - Z, 0 - 9 and _ )
 
     * Variable names are CASE SENSITIVE ( Age != age )
+You can NOT use reserved words or built-in identifiers as variable names. Reserved words include:
+
+    * False     * def       * if            * raise
+    * True      * del       * import        * return
+    * None      * elif      * in            * try
+    * and       * else      * is            * while
+    * as        * except    * lambda        * with
+    * assert    * finally   * nonlocal      * yield
+    * break     * for       * not
+    * class     * from      * or
+    * continue  * global    * pass 
 
 ## [Mathematical/Arithmetic Operators](Programming-In-Python\1-StackUp-Notes\Basics-1\Mathematical-Operators.py)
 
