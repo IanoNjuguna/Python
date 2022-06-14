@@ -107,7 +107,7 @@ The mathematical operations in Python are subject to the rules of Mathematical O
     3.  print((17-6)%(5+2))
             * There should be spaces between the numbers and the operators in the brackets
         
-        print((17 -6)%(5 + 2))
+        print((17 - 6)%(5 + 2))
             * Recommended
 
     4.  print(((3+32))+ -15//2)
@@ -169,9 +169,16 @@ Data types are an important factor in virtually all computer programming languag
 They include:
 
     * Strings
+        Include words, sentences. MUST be between quotes(single or double).
+
     * Integers
+        Include whole numbers.
+
     * Floating Point(S)
+        Include numbers with decimal points
+
     * Boolean 
+        Include True or False
 
 ## References
 
