@@ -12,7 +12,12 @@ The programming language, Python was created in the late 1980s by Guido van Ross
 
 Python is a high-level^[6], interpreted^[7], general-purpose^[8] programming language and its design philosophy emphasizes code readability with the use of significant indentation^[9].
 
-In some programming languages, indentation in code is for code readability purposes but in Python, indentation is used to indicate a block of code. 
+In Python, indentation is used to:
+
+    * Indicate a block of code. 
+    * Enforce readability.
+    * Help keep code clean.
+In programming languages like C, C++ & Java, braces are used to indicate a block of code.
 
 Its core philosophy as summarized in the document ```The Zen of Python```^[10], includes aphorisms such as:
 
