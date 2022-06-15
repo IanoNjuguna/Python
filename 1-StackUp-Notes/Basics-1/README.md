@@ -180,6 +180,10 @@ They include:
     * Boolean 
         Include True or False
 
+## 9. [Type-Conversion](Programming-In-Python\1-StackUp-Notes\Basics-1\Type-Conversion.py)
+
+
+
 ## References
 
 [1] Source: [Euclidean Division](https://en.wikipedia.org/wiki/Euclidean_division)
