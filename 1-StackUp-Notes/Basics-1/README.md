@@ -182,7 +182,7 @@ They include:
 
 ## 9. [Type-Conversion](Programming-In-Python\1-StackUp-Notes\Basics-1\Type-Conversion.py)
 
-
+The type conversion is an operation that takes a data object of one type and creates the equivalent data objects of multiple types.
 
 ## References
 
