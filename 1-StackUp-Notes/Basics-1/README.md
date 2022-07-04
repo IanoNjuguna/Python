@@ -182,9 +182,13 @@ They include:
 
 ## 9. [Type-Conversion](Programming-In-Python\1-StackUp-Notes\Basics-1\Type-Conversion.py)
 
-The type conversion is an operation that takes a data object of one type and creates the equivalent data objects of multiple types.
+Type conversion is an operation that takes a data object of one type and creates the equivalent data objects of multiple types.
 
 ## 10. [Control-Flow](Programming-In-Python\1-StackUp-Notes\Basics-1\Control-Flow.py)
+
+Computers are great at computing things, however, computers are not able to make decisions thus they require explicit instructions on what to do when certain conditions are met. This is done by the programmer.
+
+Control flow is used to dictate what happens when and if certain conditions are met.
 
 ## References
 
