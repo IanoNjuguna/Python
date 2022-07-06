@@ -198,7 +198,7 @@ To define our own functions, use the ```def``` keyword.
 
 ```def``` stands for ```define```
 
-The ```def``` keyword is followed by the name of the function. The name of the function is followed by an empty bracket and a colon. In the case of an empty bracket, this means that the function will not pick any arguments or keywords within the function.
+The ```def``` keyword is followed by the name of the function. The name of the function is followed by an empty bracket and a colon.
 The code block that follows is defined by an indent after the def statement.
 
 ## References
