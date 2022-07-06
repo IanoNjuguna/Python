@@ -11,3 +11,7 @@ It is possible to store different data types in one list but according to the Py
 
 In Python, counting starts from 0.
 Exercises on how to get a particular item in a list.
+
+## 14. [Subsetting-and-Slicing-Lists](Python\1-StackUp-Notes\Basics-2\Subsetting-and-Slicing-Lists.py)
+
+Exercises on how to get particular sections of a list.
