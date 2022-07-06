@@ -190,6 +190,17 @@ Computers are great at computing things, however, computers are not able to make
 
 Control flow is used to dictate what happens when and if certain conditions are met.
 
+## 11. [Functions](Programming-In-Python\1-StackUp-Notes\Basics-1\Functions.py)
+
+Functions are named codeblocks that perform a job or return a value.
+They are times when we need to write our own functions and this is so we can perform the same thing multiple times.
+To define our own functions, use the ```def``` keyword.
+
+```def``` stands for ```define```
+
+The ```def``` keyword is followed by the name of the function. The name of the function is followed by an empty bracket and a colon. In the case of an empty bracket, this means that the function will not pick any arguments or keywords within the function.
+The code block that follows is defined by an indent after the def statement.
+
 ## References
 
 [1] Source: [Euclidean Division](https://en.wikipedia.org/wiki/Euclidean_division)
