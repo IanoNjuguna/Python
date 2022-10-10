@@ -17,4 +17,3 @@ Exercises on how to get a particular item in a list.
 Exercises on how to get particular sections of a list.
 
 ## 15.[List-Manipulation](Python\1-StackUp-Notes\Basics-2\List-Manipulation.py)
-
