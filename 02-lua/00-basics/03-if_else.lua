@@ -1,8 +1,8 @@
 -- Branching in Lua
-level = 1
-num_lives = 5
-score = 0
-time_elapsed = 0
+local level = 1
+local num_lives = 5
+local score = 0
+local time_elapsed = 0
 
 -- TODO: the game starts
 if score >= 1000 then -- IF-ELSE STATEMENT

@@ -1,4 +1,5 @@
-menu_option = 3
+local menu_option = 3
+local menu_text
 
 -- Comparison Operators
 -- ~= NOT EQUAL
